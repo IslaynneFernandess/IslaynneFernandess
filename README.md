@@ -1,6 +1,9 @@
 - 👋 Hello, my name is Islaynne Fernandes de Amorim.
+- 
 I'm studying Internet Computing Technician.
+
 I'm very interested in studying Systems Engineering.
+
 Currently, I'm available for new opportunities.
 
 <!---
